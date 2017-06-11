@@ -4,13 +4,14 @@
 ## X-Revision: $Revision: 747 $
 ## X-LazyScriptCompatibility: 3
 ## Notes: Programmable Class Attacks.
-## Dependencies:
+## Notes-ruRU: Программируемые атаки классов.
 ## OptionalDeps: MobInfo-2, Tracer
 ## SavedVariables: lsConfGlobal
 ## SavedVariablesPerCharacter: lsConf
+
 LazyScript.lua
 Util.lua
-localization.lua
+Localization.lua
 About.lua
 Actions.lua
 AutoAttack.lua

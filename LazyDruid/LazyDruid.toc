@@ -4,13 +4,14 @@
 ## X-Revision: $Revision: 747 $
 ## X-LazyScriptCompatibility: 3
 ## Notes: Programmable Druid Attacks.
+## Notes-ruRU: Программируемые атаки друида.
 ## RequiredDeps: LazyScript
 ## OptionalDeps: MobInfo-2, Tracer
 ## LoadOnDemand: 1
 ## X-LazyScriptVersion: 1.0
+
 LazyDruid.lua
 ParseDruid.lua
 BiteTracking.lua
-localization.lua
+Localization.lua
 LazyDruid.xml
-

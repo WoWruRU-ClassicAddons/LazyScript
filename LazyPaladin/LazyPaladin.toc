@@ -4,12 +4,13 @@
 ## X-Revision: $Revision: 747 $
 ## X-LazyScriptCompatibility: 3
 ## Notes: Programmable Paladin Attacks.
+## Notes-ruRU: Программируемые атаки паладина.
 ## RequiredDeps: LazyScript
 ## OptionalDeps: MobInfo-2, Tracer
 ## LoadOnDemand: 1
 ## X-LazyScriptVersion: 1.0
+
 LazyPaladin.lua
 ParsePaladin.lua
-localization.lua
+Localization.lua
 LazyPaladin.xml
-

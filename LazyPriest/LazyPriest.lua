@@ -34,7 +34,7 @@ function lazyPriestLoad.OnEvent()
       -- Nothing yet
 
    elseif (event == "PLAYER_LOGIN") then
-      lazyPriest.chat(lazyPriestLoad.metadata:getNameVersionRevisionString().." loaded. Powered by "..lazyScript.metadata.name.."!")
+      lazyPriest.chat(lazyPriestLoad.metadata:getNameVersionRevisionString()..PRIEST_ADDON_LOADED..lazyScript.metadata.name.."!")
 
    end
 end
